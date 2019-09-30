@@ -1,0 +1,18 @@
+
+Steps:
+
+Project Manager
+	Open cmd prompt
+	goto the project folder
+	Run mvn clean install
+	Run mvn spring-boot:run
+	Run DB scripts
+
+Project Manager UI
+	Open cmd prompt
+	goto the project folder
+	Run npm install
+	Run npm start
+
+The application will start under port "3000"
+
